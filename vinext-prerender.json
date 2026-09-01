@@ -1,5 +1,5 @@
 {
-  "buildId": "6136d8d3-3fe9-47b0-a0c4-48948b06a61b",
+  "buildId": "b6f223da-1819-4c84-9985-50fbf6fc7bb5",
   "trailingSlash": false,
   "routes": [
     {
@@ -13,10 +13,7 @@
         "_N_T_/index",
         "_N_T_/layout",
         "_N_T_/page"
-      ],
-      "headers": {
-        "link": "</work/sword-scabbard-user-cutout.png>; rel=preload; as=\"image\", </work/sword-drawn-user-cutout.png>; rel=preload; as=\"image\", </work/helmet-portrait-user-20260831.png>; rel=preload; as=\"image\"; fetchpriority=\"high\", </work/v3-mermaid-01-preview.webp>; rel=preload; as=\"image\", </platforms/xinpianchang.svg>; rel=preload; as=\"image\""
-      }
+      ]
     },
     {
       "route": "/concept",
@@ -29,10 +26,7 @@
         "_N_T_/layout",
         "_N_T_/concept/layout",
         "_N_T_/concept/page"
-      ],
-      "headers": {
-        "link": "</work/sword-scabbard-user-cutout.png>; rel=preload; as=\"image\", </work/sword-drawn-user-cutout.png>; rel=preload; as=\"image\", </work/helmet-portrait-user-20260831.png>; rel=preload; as=\"image\"; fetchpriority=\"high\", </work/v3-mermaid-01-preview.webp>; rel=preload; as=\"image\", </platforms/xinpianchang.svg>; rel=preload; as=\"image\""
-      }
+      ]
     },
     {
       "route": "/previous",
