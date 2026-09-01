@@ -1,0 +1,86 @@
+{
+  "buildId": "3e79f859-f365-429e-bf7e-fb1df550226d",
+  "trailingSlash": false,
+  "routes": [
+    {
+      "route": "/",
+      "status": "rendered",
+      "revalidate": false,
+      "router": "app",
+      "tags": [
+        "/",
+        "_N_T_/",
+        "_N_T_/index",
+        "_N_T_/layout",
+        "_N_T_/page"
+      ],
+      "headers": {
+        "link": "</work/sword-scabbard-user-cutout.png>; rel=preload; as=\"image\", </work/sword-drawn-user-cutout.png>; rel=preload; as=\"image\", </work/helmet-portrait-user-20260831.png>; rel=preload; as=\"image\"; fetchpriority=\"high\", </work/v3-mermaid-01-preview.webp>; rel=preload; as=\"image\", </platforms/xinpianchang.svg>; rel=preload; as=\"image\""
+      }
+    },
+    {
+      "route": "/concept",
+      "status": "rendered",
+      "revalidate": false,
+      "router": "app",
+      "tags": [
+        "/concept",
+        "_N_T_/concept",
+        "_N_T_/layout",
+        "_N_T_/concept/layout",
+        "_N_T_/concept/page"
+      ],
+      "headers": {
+        "link": "</work/sword-scabbard-user-cutout.png>; rel=preload; as=\"image\", </work/sword-drawn-user-cutout.png>; rel=preload; as=\"image\", </work/helmet-portrait-user-20260831.png>; rel=preload; as=\"image\"; fetchpriority=\"high\", </work/v3-mermaid-01-preview.webp>; rel=preload; as=\"image\", </platforms/xinpianchang.svg>; rel=preload; as=\"image\""
+      }
+    },
+    {
+      "route": "/previous",
+      "status": "rendered",
+      "revalidate": false,
+      "router": "app",
+      "tags": [
+        "/previous",
+        "_N_T_/previous",
+        "_N_T_/layout",
+        "_N_T_/previous/layout",
+        "_N_T_/previous/page"
+      ],
+      "headers": {
+        "link": "</work/portrait-front-v3.webp>; rel=preload; as=\"image\"; fetchpriority=\"high\""
+      }
+    },
+    {
+      "route": "/404",
+      "status": "rendered",
+      "revalidate": false,
+      "router": "app"
+    }
+  ],
+  "pregeneratedConcretePaths": [
+    [
+      "/",
+      [
+        "/"
+      ]
+    ],
+    [
+      "/concept",
+      [
+        "/concept"
+      ]
+    ],
+    [
+      "/previous",
+      [
+        "/previous"
+      ]
+    ],
+    [
+      "/404",
+      [
+        "/404"
+      ]
+    ]
+  ]
+}
