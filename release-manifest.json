@@ -1,0 +1,14 @@
+﻿{
+    "packageId":  "cruel-angel-v53-final-20260902",
+    "releaseVersion":  "v53",
+    "createdAt":  "2026-09-02T22:18:34+08:00",
+    "title":  "CRUEL ANGEL - AIGC视觉创意负责人",
+    "source":  "static-dist-fabric-v53",
+    "contentFileCount":  442,
+    "contentBytes":  213948029,
+    "contentIndexSha256":  "30de7105d3cd486926ad0c5a87ce4634bcde5fe5c88edcde68241037ddec4546",
+    "targets":  [
+                    "http://120.71.158.86:8301/index.html",
+                    "https://cruel-angel.github.io/"
+                ]
+}
