@@ -1,12 +1,12 @@
 {
   "packageId": "cruel-angel-v60-major-20260903",
-  "releaseVersion": "v60",
-  "createdAt": "2026-09-03T10:26:16.698Z",
+  "releaseVersion": "v60.1",
+  "createdAt": "2026-09-03T11:15:58.449Z",
   "title": "CRUEL ANGEL - AIGC视觉创意负责人",
   "source": "static-dist-working",
   "contentFileCount": 450,
-  "contentBytes": 215398522,
-  "contentIndexSha256": "864c128a52490e9391a6ce5e42ab724394cc0c0cdceec856f657c65cb02809a6",
+  "contentBytes": 215399224,
+  "contentIndexSha256": "df85497d342ac418c78b9727cb20f43acc59009e2255e48986bd81460d2a10c1",
   "targets": [
     "http://120.71.158.86:8301/index.html",
     "https://cruel-angel.github.io/"
