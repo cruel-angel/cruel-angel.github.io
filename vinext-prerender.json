@@ -1,5 +1,5 @@
 {
-  "buildId": "7780a2ef-26f2-4c35-9b73-53ff912f5e33",
+  "buildId": "2955a32a-160c-44db-9d6e-091bd39fd407",
   "trailingSlash": false,
   "routes": [
     {
@@ -13,7 +13,10 @@
         "_N_T_/index",
         "_N_T_/layout",
         "_N_T_/page"
-      ]
+      ],
+      "headers": {
+        "link": "</work/mechanical-switch.png>; rel=preload; as=\"image\""
+      }
     },
     {
       "route": "/concept",
@@ -26,7 +29,10 @@
         "_N_T_/layout",
         "_N_T_/concept/layout",
         "_N_T_/concept/page"
-      ]
+      ],
+      "headers": {
+        "link": "</work/mechanical-switch.png>; rel=preload; as=\"image\""
+      }
     },
     {
       "route": "/previous",
