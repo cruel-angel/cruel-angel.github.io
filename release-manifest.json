@@ -5,10 +5,14 @@
   "title": "CRUEL ANGEL - AIGC视觉创意负责人",
   "source": "static-dist-working",
   "contentFileCount": 450,
-  "contentBytes": 215399224,
-  "contentIndexSha256": "df85497d342ac418c78b9727cb20f43acc59009e2255e48986bd81460d2a10c1",
+  "contentBytes": 215400868,
+  "contentIndexSha256": "a291b42575bcb1188c6571033ce5e3329038f515fa19728e36fcf146fe13dc9b",
   "targets": [
     "http://120.71.158.86:8301/index.html",
     "https://cruel-angel.github.io/"
-  ]
+  ],
+  "analytics": {
+    "measurementId": "G-B5QB1GK8QS",
+    "updatedAt": "2026-09-09T11:16:36.205Z"
+  }
 }
