@@ -1,18 +1,20 @@
 {
-  "packageId": "cruel-angel-v60-major-20260903",
-  "releaseVersion": "v60.1",
-  "createdAt": "2026-09-03T11:15:58.449Z",
+  "packageId": "cruel-angel-v61-20films-20260918",
+  "releaseVersion": "v61",
+  "createdAt": "2026-09-18T11:54:45.818Z",
   "title": "CRUEL ANGEL - AIGC视觉创意负责人",
-  "source": "static-dist-working",
-  "contentFileCount": 450,
-  "contentBytes": 215400868,
-  "contentIndexSha256": "a291b42575bcb1188c6571033ce5e3329038f515fa19728e36fcf146fe13dc9b",
-  "targets": [
-    "http://120.71.158.86:8301/index.html",
-    "https://cruel-angel.github.io/"
+  "source": "I:/网页简历26-8-30/site/static-dist",
+  "contentFileCount": 472,
+  "contentBytes": 227473836,
+  "contentIndexSha256": "d9a1aa1c92009b21609f8bfeab3a939fc91f39fd79696fd6133467a54447b70a",
+  "features": [
+    "20部精选影片",
+    "南天门老司机",
+    "视觉致幻剂",
+    "修复20张光碟阵列"
   ],
-  "analytics": {
-    "measurementId": "G-B5QB1GK8QS",
-    "updatedAt": "2026-09-09T11:16:36.205Z"
-  }
+  "targets": [
+    "https://cruel-angel.github.io/",
+    "http://120.71.158.86:8301/index.html"
+  ]
 }
