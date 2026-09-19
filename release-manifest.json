@@ -1,17 +1,17 @@
 {
-  "packageId": "cruel-angel-v61-20films-20260918",
-  "releaseVersion": "v61",
-  "createdAt": "2026-09-18T11:54:45.818Z",
+  "packageId": "cruel-angel-v62-cover-sync-20260919",
+  "releaseVersion": "v62",
+  "createdAt": "2026-09-19T15:05:53.223Z",
   "title": "CRUEL ANGEL - AIGC视觉创意负责人",
   "source": "I:/网页简历26-8-30/site/static-dist",
   "contentFileCount": 472,
-  "contentBytes": 227473836,
-  "contentIndexSha256": "d9a1aa1c92009b21609f8bfeab3a939fc91f39fd79696fd6133467a54447b70a",
+  "contentBytes": 227474518,
+  "contentIndexSha256": "4c46eaa68fa874da5599492e5603f0f53bc0b21e56982cdb9d04b288a0270f23",
   "features": [
     "20部精选影片",
-    "南天门老司机",
-    "视觉致幻剂",
-    "修复20张光碟阵列"
+    "新片场封面同步",
+    "电视第一帧与光碟封面一致",
+    "去除重复首帧"
   ],
   "targets": [
     "https://cruel-angel.github.io/",
