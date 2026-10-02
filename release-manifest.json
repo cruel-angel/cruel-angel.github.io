@@ -1,20 +1,13 @@
 {
-  "packageId": "cruel-angel-v62-cover-sync-20260919",
-  "releaseVersion": "v62",
-  "createdAt": "2026-09-19T15:05:53.223Z",
-  "title": "CRUEL ANGEL - AIGC视觉创意负责人",
-  "source": "I:/网页简历26-8-30/site/static-dist",
-  "contentFileCount": 472,
-  "contentBytes": 227474518,
-  "contentIndexSha256": "4c46eaa68fa874da5599492e5603f0f53bc0b21e56982cdb9d04b288a0270f23",
-  "features": [
-    "20部精选影片",
-    "新片场封面同步",
-    "电视第一帧与光碟封面一致",
-    "去除重复首帧"
-  ],
-  "targets": [
-    "https://cruel-angel.github.io/",
-    "http://120.71.158.86:8301/index.html"
-  ]
+  "packageId": "cruel-angel-fashion-commercial-20261002",
+  "commercialVersion": "fashion-20261002-responsive",
+  "createdAt": "2026-10-02T15:31:53.208Z",
+  "contentFileCount": 929,
+  "contentBytes": 579393889,
+  "contentIndexSha256": "3cc07b9539524fef38ef9635fb37da2c376fbc3b9552d0eb617635aef5e0ee25",
+  "bundleNamespace": "fashion-assets/1ce9361ab57dd208",
+  "independentResources": true,
+  "protectedOtherEditions": true,
+  "scope": "Independent commercial edition; no shared runtime resource dependencies",
+  "analyticsRetained": "G-B5QB1GK8QS"
 }
