@@ -1,13 +1,13 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261002",
-  "commercialVersion": "fashion-20261002-responsive",
-  "createdAt": "2026-10-02T15:31:53.208Z",
-  "contentFileCount": 929,
-  "contentBytes": 579393889,
-  "contentIndexSha256": "3cc07b9539524fef38ef9635fb37da2c376fbc3b9552d0eb617635aef5e0ee25",
-  "bundleNamespace": "fashion-assets/1ce9361ab57dd208",
+  "packageId": "cruel-angel-fashion-commercial-20261004-revision26",
+  "commercialVersion": "fashion-20261004-responsive-revision26",
+  "createdAt": "2026-10-03T16:16:03.400Z",
+  "contentFileCount": 998,
+  "contentBytes": 602751020,
+  "contentIndexSha256": "58e909bc55212390edc8efb3bf556387f57e7ac2fb46d4796bcd838f53fb822b",
+  "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
-  "scope": "Independent commercial edition; no shared runtime resource dependencies",
+  "scope": "Independent commercial edition; current resource closure only; no shared runtime dependencies",
   "analyticsRetained": "G-B5QB1GK8QS"
 }
