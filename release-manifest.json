@@ -1,13 +1,23 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261004-revision30",
-  "commercialVersion": "fashion-20261004-sculpted-reference-dvd-height-revision30",
-  "createdAt": "2026-10-04T08:32:37.184Z",
-  "contentFileCount": 1041,
-  "contentBytes": 635109673,
-  "contentIndexSha256": "366ea9c9f50724aa35e76c8ec35849c9991a9d2bd7a3025b4dc1f753a958b468",
+  "packageId": "cruel-angel-fashion-commercial-20261004-revision31",
+  "commercialVersion": "fashion-20261004-unified-mobile-playback-gallery-revision31",
+  "createdAt": "2026-10-04T10:14:16.582Z",
+  "contentFileCount": 1063,
+  "contentBytes": 647981215,
+  "contentIndexSha256": "7ca2c638f665699b0036e6c7caac32665f99b9816201fc25f6baea55cc86fe32",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
-  "scope": "PC Chromatic Characters visible cover dimensions and typography match Sculpted Runway; cover crops the lower source area on PC only, original phone composition retained. PC DVD aligns with the full TV exterior height; phone horizontal player and all previous fixes unchanged.",
+  "scope": [
+    "Mobile project gaps 32px, chapter gaps 48px, separators, IP-to-sculpture gap 0",
+    "All mobile portrait cover gutters match Sculpted Runway; landscape full bleed and desktop dimensions retained",
+    "Purple film inside Waterborne caption; red wordmarks at midpoint with no clipping and compact film",
+    "Experience 7-entry 2-second loop returning to freelance; manual/offscreen/hidden interruptions respected",
+    "Chromatic frame 03 full-body expanded cover including both pink shoes; 16 body frames unchanged",
+    "Crystal Garden 19 screenshot-marked original images in screenshot order; original cover unchanged",
+    "WeChat playback admission/rejection/gesture/viewport repair; real mobile hardware not tested"
+  ],
+  "localPassedChecks": 79,
+  "realMobileHardwareTested": false,
   "analyticsRetained": "G-B5QB1GK8QS"
 }
