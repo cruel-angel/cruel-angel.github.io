@@ -1,13 +1,13 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261004-revision29",
-  "commercialVersion": "fashion-20261004-responsive-gallery-cinema-lips-revision29",
-  "createdAt": "2026-10-04T06:26:47.208Z",
-  "contentFileCount": 1039,
-  "contentBytes": 632919486,
-  "contentIndexSha256": "ea86a67f9dc07ecbe87783becb843bef227fe5c2ecc37795f8bb2e0ae126759b",
+  "packageId": "cruel-angel-fashion-commercial-20261004-revision30",
+  "commercialVersion": "fashion-20261004-sculpted-reference-dvd-height-revision30",
+  "createdAt": "2026-10-04T08:32:37.184Z",
+  "contentFileCount": 1041,
+  "contentBytes": 635109673,
+  "contentIndexSha256": "366ea9c9f50724aa35e76c8ec35849c9991a9d2bd7a3025b4dc1f753a958b468",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
-  "scope": "Original-source Chromatic Characters with standard portrait dimensions and sixteen selected images; independent mobile full-width landscape and cinema layouts, folded external robot, centered lower-rim disc labels, compact layered red lips and subtle violet lips between portraits; all previous fixes retained",
+  "scope": "PC Chromatic Characters visible cover dimensions and typography match Sculpted Runway; cover crops the lower source area on PC only, original phone composition retained. PC DVD aligns with the full TV exterior height; phone horizontal player and all previous fixes unchanged.",
   "analyticsRetained": "G-B5QB1GK8QS"
 }
