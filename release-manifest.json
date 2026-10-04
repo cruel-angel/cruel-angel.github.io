@@ -1,23 +1,23 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261004-revision31",
-  "commercialVersion": "fashion-20261004-unified-mobile-playback-gallery-revision31",
-  "createdAt": "2026-10-04T10:14:16.582Z",
-  "contentFileCount": 1063,
-  "contentBytes": 647981215,
-  "contentIndexSha256": "7ca2c638f665699b0036e6c7caac32665f99b9816201fc25f6baea55cc86fe32",
+  "packageId": "cruel-angel-fashion-commercial-20261004-revision32",
+  "commercialVersion": "fashion-20261004-wechat-silent-playback-mobile-gems-smooth-hero-revision32",
+  "createdAt": "2026-10-04T11:44:06.556Z",
+  "contentFileCount": 1065,
+  "contentBytes": 650189035,
+  "contentIndexSha256": "35799bd13bcffa4a68d94c4999488d54e52502c0bea993114fa3f9e76a46c035",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
   "scope": [
-    "Mobile project gaps 32px, chapter gaps 48px, separators, IP-to-sculpture gap 0",
-    "All mobile portrait cover gutters match Sculpted Runway; landscape full bleed and desktop dimensions retained",
-    "Purple film inside Waterborne caption; red wordmarks at midpoint with no clipping and compact film",
-    "Experience 7-entry 2-second loop returning to freelance; manual/offscreen/hidden interruptions respected",
-    "Chromatic frame 03 full-body expanded cover including both pink shoes; 16 body frames unchanged",
-    "Crystal Garden 19 screenshot-marked original images in screenshot order; original cover unchanged",
-    "WeChat playback admission/rejection/gesture/viewport repair; real mobile hardware not tested"
+    "Mobile opening-film crop updates on display refresh using video time, continuous focus interpolation and short frame-independent smoothing",
+    "Silk mobile framing follows the same walking character throughout, avoiding the old transition across empty fabric between two figures",
+    "Larger mobile recognition diamonds and emerald with text clearance; desktop layout unchanged",
+    "Silent visible-video retries through callable WeChat bridge callback, media readiness and genuine touchstart",
+    "Bounded retries preserve manual pause, offscreen/background pause, saveData and reduced-motion choices",
+    "Remove enable-video/autoplay prompt; keep real loading-error retry and existing manual controls",
+    "All original media and v31 gallery, cover, spacing, resume, DVD and desktop sources retained"
   ],
-  "localPassedChecks": 79,
+  "localPassedChecks": 100,
   "realMobileHardwareTested": false,
   "analyticsRetained": "G-B5QB1GK8QS"
 }
