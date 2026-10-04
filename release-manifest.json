@@ -1,13 +1,13 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261004-revision28",
-  "commercialVersion": "fashion-20261004-mobile-compat-dvd-resume-cover-gaze-poster-revision28",
-  "createdAt": "2026-10-04T05:37:01.221Z",
-  "contentFileCount": 1020,
-  "contentBytes": 627555096,
-  "contentIndexSha256": "54b5b93200a660b0fb676cd9661c915a9e9d068c1bde7f75e8a5ee6925d63f0a",
+  "packageId": "cruel-angel-fashion-commercial-20261004-revision29",
+  "commercialVersion": "fashion-20261004-responsive-gallery-cinema-lips-revision29",
+  "createdAt": "2026-10-04T06:26:47.208Z",
+  "contentFileCount": 1039,
+  "contentBytes": 632919486,
+  "contentIndexSha256": "ea86a67f9dc07ecbe87783becb843bef227fe5c2ecc37795f8bb2e0ae126759b",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
-  "scope": "Two original-source cover replacements, fourteen numbered original posters and green-selected cover, upper-body Gaze composition with drifting depth orbits; previous compatibility and responsive corrections retained",
+  "scope": "Original-source Chromatic Characters with standard portrait dimensions and sixteen selected images; independent mobile full-width landscape and cinema layouts, folded external robot, centered lower-rim disc labels, compact layered red lips and subtle violet lips between portraits; all previous fixes retained",
   "analyticsRetained": "G-B5QB1GK8QS"
 }
