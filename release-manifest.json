@@ -1,13 +1,13 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261004-revision27",
-  "commercialVersion": "fashion-20261004-mobile-compat-dvd-resume-revision27",
-  "createdAt": "2026-10-04T05:09:42.045Z",
-  "contentFileCount": 1002,
-  "contentBytes": 619216297,
-  "contentIndexSha256": "d6bec61198204fe23767aefd92ceb10e10947235970163bc4737ea9e6bb4516c",
+  "packageId": "cruel-angel-fashion-commercial-20261004-revision28",
+  "commercialVersion": "fashion-20261004-mobile-compat-dvd-resume-cover-gaze-poster-revision28",
+  "createdAt": "2026-10-04T05:37:01.221Z",
+  "contentFileCount": 1020,
+  "contentBytes": 627555096,
+  "contentIndexSha256": "54b5b93200a660b0fb676cd9661c915a9e9d068c1bde7f75e8a5ee6925d63f0a",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
-  "scope": "Compatibility and DVD/resume layout delta in the existing exclusive commercial namespace; prior media unchanged",
+  "scope": "Two original-source cover replacements, fourteen numbered original posters and green-selected cover, upper-body Gaze composition with drifting depth orbits; previous compatibility and responsive corrections retained",
   "analyticsRetained": "G-B5QB1GK8QS"
 }
