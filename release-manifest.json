@@ -1,10 +1,11 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261005-revision37",
-  "commercialVersion": "fashion-20261005-original-media-flat-posts-alignment-preview-revision37",
-  "createdAt": "2026-10-05T06:02:39.589Z",
-  "contentFileCount": 1174,
-  "contentBytes": 858966298,
-  "contentIndexSha256": "5ede3d290fdb4830e002a7146af2898d1f098168e5a938f82ad4ab6dfc13fd4c",
+  "packageId": "cruel-angel-fashion-commercial-20261005-revision38",
+  "commercialVersion": "fashion-20261005-wechat-boot-hero-readiness-revision38",
+  "revision": 38,
+  "createdAt": "2026-10-05T09:18:51.001Z",
+  "contentFileCount": 1176,
+  "contentBytes": 861208499,
+  "contentIndexSha256": "91bc641699d6be13380c88812d3deb8966a375017cad13ade460022511e9d072",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -25,10 +26,28 @@
     "Coconut Recharge fourteen selected originals and original bottle-travel clip beside Botanical Essence",
     "Green Reverie ten numbered original PNGs and selected summer train clip with existing cover composition retained",
     "Celestial Pageant nine original PNGs and selected 1574 original clip; Koi position and Nocturnal post retirement follow explicit user instructions without deleting media",
-    "Adjacent Dunhuang/Pageant original cover alignment and opaque filled Coconut/Pageant card previews"
+    "Adjacent Dunhuang/Pageant original cover alignment and opaque filled Coconut/Pageant card previews",
+    "WeChat entry boot resilience and bounded hero media readiness; existing selected media and prior layout preserved"
   ],
   "localQARequiredBeforePublication": true,
-  "localPassedChecks": 12,
+  "localQAReports": [
+    {
+      "file": "wechat-boot-qa.json",
+      "sha256": "f28be0e063b6bfb9debc35fd1231869e18b94ee65835d8904969fc8521696dab",
+      "checks": 75
+    },
+    {
+      "file": "independent-local-qa.json",
+      "sha256": "34d83c9b0bc2302cd7f895d4aa0548ae811bc3da8bb5a5951eb062050b6788aa",
+      "checks": 22
+    },
+    {
+      "file": "local-browser-qa.json",
+      "sha256": "09eb50c8da9473ed8bc70a579716e6f44fc97576e8a651f1e51f14ace01c08af",
+      "checks": 26
+    }
+  ],
+  "localPassedChecks": 123,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
