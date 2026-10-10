@@ -1,14 +1,15 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261007-video-main-revision39",
-  "commercialVersion": "fashion-20261007-video-main-download-progress-revision39",
-  "revision": 39,
-  "changeScope": "VIDEO-main-player-only",
-  "unchangedBaselineSources": 101,
-  "sourceStoreEvidence": "24 isolated module unit tests; not an application scope assertion",
-  "createdAt": "2026-10-07T16:40:57.904Z",
-  "contentFileCount": 1178,
-  "contentBytes": 863463436,
-  "contentIndexSha256": "e58f09509f82e1275c0d01e909dee430f1c9314a833754f90354e5e320063e8c",
+  "packageId": "cruel-angel-fashion-commercial-20261010-posts-revision40",
+  "commercialVersion": "fashion-20261010-posts-and-recognition-revision40",
+  "revision": 40,
+  "changeScope": "recognition-2026-posts-and-post-video-behavior",
+  "unchangedBaselineSources": 104,
+  "unchangedApplicationSources": 101,
+  "newMediaCount": 18,
+  "createdAt": "2026-10-10T14:41:33.200Z",
+  "contentFileCount": 1198,
+  "contentBytes": 893083788,
+  "contentIndexSha256": "9f8dad25d560abee883f21af0ad589c764eeaf72c17a5c2aec88954622708398",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -31,30 +32,40 @@
     "Celestial Pageant nine original PNGs and selected 1574 original clip; Koi position and Nocturnal post retirement follow explicit user instructions without deleting media",
     "Adjacent Dunhuang/Pageant original cover alignment and opaque filled Coconut/Pageant card previews",
     "WeChat entry boot resilience and bounded hero media readiness; existing selected media and prior layout preserved",
-    "VIDEO main DVD screen only: complete video download before Blob playback, real byte progress and source identity; all 101 other published application sources and all four shared sources exactly retain revision 38 bytes; existing media and category layout preserved"
+    "VIDEO main DVD screen only: complete video download before Blob playback, real byte progress and source identity; all 101 other published application sources and all four shared sources exactly retain revision 38 bytes; existing media and category layout preserved",
+    "Shotlab signed artist recognition and Shotlab/Xinpianchang certification; blue-white marquise stones for the silver award, golden pear-shaped stones for the signed artist and matching golden small emerald, with original gemstone media unchanged; all fourteen fashion rail images open one Black Hole Runway post with an original-quality silent video excerpt, full-width feature frame and introductory portrait; new selected Mid-Autumn Moon post; automatic video playback in all post dialogs and real complete-download progress before hover-video playback, reusing the unchanged revision 39 download modules. Only recognition-awards, recognition-gem-scene, collections-2026, motion-preview and fashion-home change among existing application sources; fashion-home changes are confined to ArtworkDialog autoplay/muting, with FilmHero, NoirHero and boot logic unchanged."
   ],
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
+      "file": "local-browser-qa.json",
+      "sha256": "8a36e25b9a007879d8fbf4a7afe97b5c82a7486dbf747a72826550e1fa50816c",
+      "evidenceScope": "current local browser checks",
+      "checks": 96
+    },
+    {
+      "file": "hover-download-qa.json",
+      "sha256": "6a31ca55813fb03a71f2862f9323553f0e2d5e6f416c9e508e6c5b00e3fb3460",
+      "evidenceScope": "current local slow-network hover download checks",
+      "checks": 31
+    }
+  ],
+  "localPassedChecks": 127,
+  "inheritedVideoChecksCountedAsCurrent": false,
+  "inheritedVideoEvidence": [
+    {
       "file": "video-download-qa.json",
+      "revision": 39,
       "sha256": "0d5d9be5bb840a90d15830ec147a4d17f710965c434f09ace5c87a478702a09e",
-      "evidenceScope": "local-browser-checks",
-      "checks": 45
+      "evidenceScope": "historical published revision 39 tests; not revision 40 browser checks"
     },
     {
       "file": "source-store-qa.json",
+      "revision": 39,
       "sha256": "246c0e09face929bac7f208b2ef98b2f4204f43945d2bf699bcb15d4cfaacc40",
-      "evidenceScope": "isolated-module-unit-tests",
-      "checks": 24
-    },
-    {
-      "file": "local-browser-qa.json",
-      "sha256": "b467b91e4db1b7c88cdbe6ed6c92f05c7dc4753251f9e227a1b9ec738db49eb4",
-      "evidenceScope": "local-browser-checks",
-      "checks": 18
+      "evidenceScope": "historical published revision 39 tests; not revision 40 browser checks"
     }
   ],
-  "localPassedChecks": 87,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
