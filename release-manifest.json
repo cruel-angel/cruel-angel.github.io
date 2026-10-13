@@ -1,15 +1,15 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261011-cover-revision41",
-  "commercialVersion": "fashion-20261011-cover-revision41",
-  "revision": 41,
-  "changeScope": "fluid-forms-cover-only",
-  "unchangedBaselineSources": 111,
-  "unchangedApplicationSources": 108,
+  "packageId": "cruel-angel-fashion-commercial-20261013-media-scheduler-revision42",
+  "commercialVersion": "fashion-20261013-media-scheduler-revision42",
+  "revision": 42,
+  "changeScope": "media-scheduler-fairness-only",
+  "unchangedBaselineSources": 110,
+  "unchangedApplicationSources": 107,
   "newMediaCount": 0,
-  "createdAt": "2026-10-11T09:24:32.376Z",
-  "contentFileCount": 1200,
-  "contentBytes": 895344437,
-  "contentIndexSha256": "9c0f90ef9fc4c6c91d6365bcbb2e466acdcde83e21358a4052352aaba3144a3e",
+  "createdAt": "2026-10-13T05:18:46.562Z",
+  "contentFileCount": 1202,
+  "contentBytes": 897605451,
+  "contentIndexSha256": "64dd4c38f99b4f202930aaa80d230ac7ddbcf2ec5b5a6258f1fc61e8e9c05027",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -34,18 +34,25 @@
     "WeChat entry boot resilience and bounded hero media readiness; existing selected media and prior layout preserved",
     "VIDEO main DVD screen only: complete video download before Blob playback, real byte progress and source identity; all 101 other published application sources and all four shared sources exactly retain revision 38 bytes; existing media and category layout preserved",
     "Shotlab signed artist recognition and Shotlab/Xinpianchang certification; blue-white marquise stones for the silver award, golden pear-shaped stones for the signed artist and matching golden small emerald, with original gemstone media unchanged; all fourteen fashion rail images open one Black Hole Runway post with an original-quality silent video excerpt, full-width feature frame and introductory portrait; new selected Mid-Autumn Moon post; automatic video playback in all post dialogs and real complete-download progress before hover-video playback, reusing the unchanged revision 39 download modules. Only recognition-awards, recognition-gem-scene, collections-2026, motion-preview and fashion-home change among existing application sources; fashion-home changes are confined to ArtworkDialog autoplay/muting, with FilmHero, NoirHero and boot logic unchanged.",
-    "Only Organic Assemblage / fluid-forms cover changes to the existing original-quality image 02; coverIndex is 1. Post position, categories, content images and their order, video behavior, CSS, recognition, other source files, media, editions and applications remain unchanged."
+    "Only Organic Assemblage / fluid-forms cover changes to the existing original-quality image 02; coverIndex is 1. Post position, categories, content images and their order, video behavior, CSS, recognition, other source files, media, editions and applications remain unchanged.",
+    "Only shared media scheduling changes: images have reserved loading capacity, video concurrency is bounded to reserve image capacity, and pending viewport images are promoted. Visual layout, image/media bytes, post data/order, CSS, full-download-before-play behavior, hero gates, editions and applications remain unchanged."
   ],
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
       "file": "local-qa.json",
-      "sha256": "d8dceda9d8866494ae0446e0ab894381e46f3849b3472e4655880dc3adb72464",
-      "evidenceScope": "current local cover selection and visual alignment checks",
-      "checks": 15
+      "sha256": "dfbbe5033d8942bcdb19fac9b44e3a67cb020123c5042c4f2d70744e0043d83a",
+      "evidenceScope": "current local image loading, alignment and media behavior checks",
+      "checks": 22
+    },
+    {
+      "file": "scheduler-qa.json",
+      "sha256": "5ae7955ba64151beab1df893904a4a38827e36f0f6d0ce69e4c9e8a58745a439",
+      "evidenceScope": "current scheduler isolation, viewport priority and cleanup checks",
+      "checks": 36
     }
   ],
-  "localPassedChecks": 15,
+  "localPassedChecks": 58,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
