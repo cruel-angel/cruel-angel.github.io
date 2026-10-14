@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261014-first-film-entry-revision48",
-  "commercialVersion": "fashion-20261014-first-film-entry-revision48",
-  "revision": 48,
-  "changeScope": "native-startup-before-js-and-first-full-film-entry-sequencing",
-  "createdAt": "2026-10-14T17:07:21.749Z",
-  "contentFileCount": 1339,
-  "contentBytes": 926758327,
-  "contentIndexSha256": "62ae9e79941d3dfa81932536847590d388954d49b9785899e6ed323ca429baca",
+  "packageId": "cruel-angel-fashion-commercial-20261015-loading-copy-revision49",
+  "commercialVersion": "fashion-20261015-loading-copy-revision49",
+  "revision": 49,
+  "changeScope": "loading-copy-only-no-resource-policy-change",
+  "createdAt": "2026-10-14T17:29:18.568Z",
+  "contentFileCount": 1340,
+  "contentBytes": 928222063,
+  "contentIndexSha256": "63e9a7ebbf3d7815ea99e9cc4500ae6a4572ce083ae169977c7f7e56001cd787",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -41,7 +41,9 @@
     "CSS, media bytes, all317 foreground covers, catalogue order, detail originals and video-column interaction remain unchanged.",
     "Revision48 keeps clear native loading visible before module/CSS execution and waits for the first decoded cover and complete first-film download before entry.",
     "Second full film downloads only after first native playing; interruption cancels unfinished background work without discarding completed cache. Mobile hero subject framing and tracking are corrected.",
-    "All CSS, media bytes, 317 foreground covers, catalogue order, inner originals and VIDEO-column interactions remain unchanged."
+    "All CSS, media bytes, 317 foreground covers, catalogue order, inner originals and VIDEO-column interactions remain unchanged.",
+    "Revision49 changes loading visible and accessible copy only; numerical progress and failure/retry UI remain.",
+    "Entry and all video request/playback sequencing, native loading behavior, website body copy, CSS, covers and originals stay unchanged."
   ],
   "newMediaCount": 0,
   "coverCount": 317,
@@ -51,22 +53,12 @@
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
-      "file": "entry-sequence-report.json",
-      "sha256": "f3e13d12cd6c9490019de3b86e2a89e3ecb024a1eea92eb4b76d9990a0f8a5bd",
-      "checks": 46
-    },
-    {
-      "file": "hero-sequence-check.json",
-      "sha256": "442c8bce82fc87b9c03c2a07a5e30e7b15819f5715aa130284ca06c6bdb29bac",
-      "checks": 22
-    },
-    {
-      "file": "hero-framing-check.json",
-      "sha256": "700bc6a211a32e5dcbee0f552723f9d380dcce33cc4f9e44e2d72d97ae03b4d1",
-      "checks": 17
+      "file": "loading-copy-report.json",
+      "sha256": "4b6a792f3ccd435d46b73c02e230b9ec8f893c18db0fbbaae035908de13db438",
+      "checks": 7
     }
   ],
-  "localPassedChecks": 103,
+  "localPassedChecks": 7,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
