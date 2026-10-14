@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261014-cold-entry-revision47",
-  "commercialVersion": "fashion-20261014-cold-entry-revision47",
-  "revision": 47,
-  "changeScope": "cold-entry-fallback-image-recovery-and-cancellable-hero-fetch",
-  "createdAt": "2026-10-14T13:33:38.173Z",
-  "contentFileCount": 1338,
-  "contentBytes": 925293336,
-  "contentIndexSha256": "9cfa522414ae485b06a7ea6428c8da6f981c1a0d867375cb3da9327fea761f3f",
+  "packageId": "cruel-angel-fashion-commercial-20261014-first-film-entry-revision48",
+  "commercialVersion": "fashion-20261014-first-film-entry-revision48",
+  "revision": 48,
+  "changeScope": "native-startup-before-js-and-first-full-film-entry-sequencing",
+  "createdAt": "2026-10-14T17:07:21.749Z",
+  "contentFileCount": 1339,
+  "contentBytes": 926758327,
+  "contentIndexSha256": "62ae9e79941d3dfa81932536847590d388954d49b9785899e6ed323ca429baca",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -38,7 +38,10 @@
     "User-approved hero copy: 视频制作 / TVC 创意广告 / 品牌 VI 设计 / UI设计 / 视觉设计. Entry starts effect approximately500ms after readiness without changing full-film URLs or timeout/decode protection.",
     "Revision47 repairs cold entry: startup fallback appears before the module executes; first-screen readiness does not wait for complete hero films.",
     "Visible images recover from interrupted requests, stale video load slots release promptly, and hero full-film fetches cancel when no subscriber needs them.",
-    "CSS, media bytes, all317 foreground covers, catalogue order, detail originals and video-column interaction remain unchanged."
+    "CSS, media bytes, all317 foreground covers, catalogue order, detail originals and video-column interaction remain unchanged.",
+    "Revision48 keeps clear native loading visible before module/CSS execution and waits for the first decoded cover and complete first-film download before entry.",
+    "Second full film downloads only after first native playing; interruption cancels unfinished background work without discarding completed cache. Mobile hero subject framing and tracking are corrected.",
+    "All CSS, media bytes, 317 foreground covers, catalogue order, inner originals and VIDEO-column interactions remain unchanged."
   ],
   "newMediaCount": 0,
   "coverCount": 317,
@@ -48,27 +51,22 @@
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
-      "file": "cold-firefox-current47.json",
-      "sha256": "0cd983b25bfb541038e02e397b2e83ec068cb788f8d96b45e83f8c1c1e01f3a3",
-      "checks": 5
+      "file": "entry-sequence-report.json",
+      "sha256": "f3e13d12cd6c9490019de3b86e2a89e3ecb024a1eea92eb4b76d9990a0f8a5bd",
+      "checks": 46
     },
     {
-      "file": "cold-edge-current47-report.json",
-      "sha256": "06b5fecb30e0c4e348735a3b1468c92383bb8312dd79b7dac6c027e7a9e832c6",
-      "checks": 3
+      "file": "hero-sequence-check.json",
+      "sha256": "442c8bce82fc87b9c03c2a07a5e30e7b15819f5715aa130284ca06c6bdb29bac",
+      "checks": 22
     },
     {
-      "file": "image-recovery-check.json",
-      "sha256": "59a7ede2b8e392bbaf1bc49676f15b8a0fc9eca639fb5ebf946891b3ff17b222",
-      "checks": 15
-    },
-    {
-      "file": "hero-cancellation-check.json",
-      "sha256": "ffaab8ec349a5dca66da9c0690a2f10269f6e79cbb809952138dfb25d4c362f4",
-      "checks": 13
+      "file": "hero-framing-check.json",
+      "sha256": "700bc6a211a32e5dcbee0f552723f9d380dcce33cc4f9e44e2d72d97ae03b4d1",
+      "checks": 17
     }
   ],
-  "localPassedChecks": 66,
+  "localPassedChecks": 103,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
