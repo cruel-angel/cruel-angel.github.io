@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261014-cover-budget-revision46",
-  "commercialVersion": "fashion-20261014-cover-budget-revision46",
-  "revision": 46,
-  "changeScope": "approved-local46-cover-budget-responsive-cinema-and-copy",
-  "createdAt": "2026-10-14T10:46:28.003Z",
-  "contentFileCount": 1337,
-  "contentBytes": 923830905,
-  "contentIndexSha256": "df368f221fd57cabac8fdfecb86957e155dad3082533bb7cb76cdacc2bddda53",
+  "packageId": "cruel-angel-fashion-commercial-20261014-cold-entry-revision47",
+  "commercialVersion": "fashion-20261014-cold-entry-revision47",
+  "revision": 47,
+  "changeScope": "cold-entry-fallback-image-recovery-and-cancellable-hero-fetch",
+  "createdAt": "2026-10-14T13:33:38.173Z",
+  "contentFileCount": 1338,
+  "contentBytes": 925293336,
+  "contentIndexSha256": "9cfa522414ae485b06a7ea6428c8da6f981c1a0d867375cb3da9327fea761f3f",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -35,26 +35,40 @@
     "Only shared media scheduling changes: images have reserved loading capacity, video concurrency is bounded to reserve image capacity, and pending viewport images are promoted. Visual layout, image/media bytes, post data/order, CSS, full-download-before-play behavior, hero gates, editions and applications remain unchanged.",
     "Approved local revision46: all317 explicit foreground/list/preview images at most300000 bytes; original inner images remain unchanged and load on detail open.",
     "Responsive cinema advances only after true complete playback and measures current shelf geometry; explicit disc clicks take priority.",
-    "User-approved hero copy: 视频制作 / TVC 创意广告 / 品牌 VI 设计 / UI设计 / 视觉设计. Entry starts effect approximately500ms after readiness without changing full-film URLs or timeout/decode protection."
+    "User-approved hero copy: 视频制作 / TVC 创意广告 / 品牌 VI 设计 / UI设计 / 视觉设计. Entry starts effect approximately500ms after readiness without changing full-film URLs or timeout/decode protection.",
+    "Revision47 repairs cold entry: startup fallback appears before the module executes; first-screen readiness does not wait for complete hero films.",
+    "Visible images recover from interrupted requests, stale video load slots release promptly, and hero full-film fetches cancel when no subscriber needs them.",
+    "CSS, media bytes, all317 foreground covers, catalogue order, detail originals and video-column interaction remain unchanged."
   ],
-  "newMediaCount": 133,
+  "newMediaCount": 0,
   "coverCount": 317,
   "coverHardLimitBytes": 300000,
   "largestCoverBytes": 296666,
+  "reusedCSS": "main-compat-v46.css",
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
-      "file": "cover-local-qa.json",
-      "sha256": "e22a063a39b8732bbb5199b90db5c3e0c4e3c066505c4726b1766cca3435a5fe",
-      "checks": 43
+      "file": "cold-firefox-current47.json",
+      "sha256": "0cd983b25bfb541038e02e397b2e83ec068cb788f8d96b45e83f8c1c1e01f3a3",
+      "checks": 5
     },
     {
-      "file": "video-interaction-check.json",
-      "sha256": "eb5201142832cf2b51552289620fabce884099d2a7f9dab91db31bb6cfcbfb4c",
-      "checks": 26
+      "file": "cold-edge-current47-report.json",
+      "sha256": "06b5fecb30e0c4e348735a3b1468c92383bb8312dd79b7dac6c027e7a9e832c6",
+      "checks": 3
+    },
+    {
+      "file": "image-recovery-check.json",
+      "sha256": "59a7ede2b8e392bbaf1bc49676f15b8a0fc9eca639fb5ebf946891b3ff17b222",
+      "checks": 15
+    },
+    {
+      "file": "hero-cancellation-check.json",
+      "sha256": "ffaab8ec349a5dca66da9c0690a2f10269f6e79cbb809952138dfb25d4c362f4",
+      "checks": 13
     }
   ],
-  "localPassedChecks": 69,
+  "localPassedChecks": 66,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
