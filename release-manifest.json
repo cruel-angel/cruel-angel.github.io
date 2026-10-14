@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261015-loading-copy-revision49",
-  "commercialVersion": "fashion-20261015-loading-copy-revision49",
-  "revision": 49,
-  "changeScope": "loading-copy-only-no-resource-policy-change",
-  "createdAt": "2026-10-14T17:29:18.568Z",
-  "contentFileCount": 1340,
-  "contentBytes": 928222063,
-  "contentIndexSha256": "63e9a7ebbf3d7815ea99e9cc4500ae6a4572ce083ae169977c7f7e56001cd787",
+  "packageId": "cruel-angel-fashion-commercial-20261015-native-crystal-revision51",
+  "commercialVersion": "fashion-20261015-native-crystal-revision51",
+  "revision": 51,
+  "changeScope": "original-crystal-native-first-frame-and-styled-animation-handoff",
+  "createdAt": "2026-10-14T18:02:00.700Z",
+  "contentFileCount": 1341,
+  "contentBytes": 929723948,
+  "contentIndexSha256": "11ef7e2a0b9e5a5e4dc0f9af34f99b6cfc9adebfce0a9b3d741f65f93c4ff7f0",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -43,7 +43,9 @@
     "Second full film downloads only after first native playing; interruption cancels unfinished background work without discarding completed cache. Mobile hero subject framing and tracking are corrected.",
     "All CSS, media bytes, 317 foreground covers, catalogue order, inner originals and VIDEO-column interactions remain unchanged.",
     "Revision49 changes loading visible and accessible copy only; numerical progress and failure/retry UI remain.",
-    "Entry and all video request/playback sequencing, native loading behavior, website body copy, CSS, covers and originals stay unchanged."
+    "Entry and all video request/playback sequencing, native loading behavior, website body copy, CSS, covers and originals stay unchanged.",
+    "Revision51 restores immediate original crystal loading through embedded first frames and the original renderer and fixed-overlay style readiness handoff; added spinner and LOADING overlay are removed.",
+    "Entry and all video request/playback sequencing, website body copy, external CSS, covers and original media stay unchanged; no extra loading stage or media request is introduced."
   ],
   "newMediaCount": 0,
   "coverCount": 317,
@@ -53,12 +55,12 @@
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
-      "file": "loading-copy-report.json",
-      "sha256": "4b6a792f3ccd435d46b73c02e230b9ec8f893c18db0fbbaae035908de13db438",
-      "checks": 7
+      "file": "focused-native-handoff-report.json",
+      "sha256": "790330361dba23c0d53e28593181f7f51573d1e8c47eb3fec79a21f5aaee652d",
+      "checks": 13
     }
   ],
-  "localPassedChecks": 7,
+  "localPassedChecks": 13,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
