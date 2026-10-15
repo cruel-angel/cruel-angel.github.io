@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261015-native-crystal-revision51",
-  "commercialVersion": "fashion-20261015-native-crystal-revision51",
-  "revision": 51,
-  "changeScope": "original-crystal-native-first-frame-and-styled-animation-handoff",
-  "createdAt": "2026-10-14T18:02:00.700Z",
-  "contentFileCount": 1341,
-  "contentBytes": 929723948,
-  "contentIndexSha256": "11ef7e2a0b9e5a5e4dc0f9af34f99b6cfc9adebfce0a9b3d741f65f93c4ff7f0",
+  "packageId": "cruel-angel-fashion-commercial-20261015-video-order-A-revision53",
+  "commercialVersion": "fashion-20261015-video-order-A-revision53",
+  "revision": 53,
+  "changeScope": "first-full-video-only-then-second-during-actual-playback",
+  "createdAt": "2026-10-15T15:20:12.755Z",
+  "contentFileCount": 1342,
+  "contentBytes": 931187958,
+  "contentIndexSha256": "5f6478536f2cc118ac37b7691694fac5b7a2c3f8520b3785dedec24a48fb033c",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -45,7 +45,9 @@
     "Revision49 changes loading visible and accessible copy only; numerical progress and failure/retry UI remain.",
     "Entry and all video request/playback sequencing, native loading behavior, website body copy, CSS, covers and originals stay unchanged.",
     "Revision51 restores immediate original crystal loading through embedded first frames and the original renderer and fixed-overlay style readiness handoff; added spinner and LOADING overlay are removed.",
-    "Entry and all video request/playback sequencing, website body copy, external CSS, covers and original media stay unchanged; no extra loading stage or media request is introduced."
+    "Entry and all video request/playback sequencing, website body copy, external CSS, covers and original media stay unchanged; no extra loading stage or media request is introduced.",
+    "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
+    "Only second-video poster admission changes; published crystal startup, site body, CSS and media remain unchanged."
   ],
   "newMediaCount": 0,
   "coverCount": 317,
@@ -55,8 +57,8 @@
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
-      "file": "focused-native-handoff-report.json",
-      "sha256": "790330361dba23c0d53e28593181f7f51573d1e8c47eb3fec79a21f5aaee652d",
+      "file": "video-order-report.json",
+      "sha256": "cd0cb18df9345620898b86c8988d76cf31caa484bef6c29e96907da526e3acf5",
       "checks": 13
     }
   ],
