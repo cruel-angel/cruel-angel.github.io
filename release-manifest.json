@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261015-video-order-A-revision54",
-  "commercialVersion": "fashion-20261015-video-order-A-revision54",
-  "revision": 54,
-  "changeScope": "immediate-second-cover-with-sequential-video-downloads",
-  "createdAt": "2026-10-15T15:47:48.673Z",
+  "packageId": "cruel-angel-fashion-commercial-20261015-remove-static-frame-revision55",
+  "commercialVersion": "fashion-20261015-remove-static-frame-revision55",
+  "revision": 55,
+  "changeScope": "remove-embedded-static-crystal-screenshot-only",
+  "createdAt": "2026-10-15T16:05:03.000Z",
   "contentFileCount": 1343,
-  "contentBytes": 932651946,
-  "contentIndexSha256": "ba674d17cb1f0529f232d89516584491b4aa14e9e01b8a3dd8a6bedae530039c",
+  "contentBytes": 932614646,
+  "contentIndexSha256": "a64fa2bb1cc260c9fc36d3d71de9bb81d4a463a767be92aaf6fd1e9de019520a",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -49,7 +49,8 @@
     "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
     "Only second-video poster admission changes; published crystal startup, site body, CSS and media remain unchanged.",
     "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
-    "Restore normal second-video cover admission; published crystal startup, site body, CSS and media remain unchanged."
+    "Restore normal second-video cover admission; published crystal startup, site body, CSS and media remain unchanged.",
+    "Remove only the initial embedded static crystal screenshot and its unused picture CSS. All JavaScript, the original crystal animation, both video covers and download sequence remain unchanged."
   ],
   "newMediaCount": 0,
   "coverCount": 317,
@@ -60,7 +61,7 @@
   "localQAReports": [
     {
       "file": "video-order-report.json",
-      "sha256": "7f813dd79f887395251b3e4677e8866e99e033847cdeb19ad8e5f9df749c3cb9",
+      "sha256": "9a842415938cb1c2f797e600d23292f8fbf29f3c7f467e41907b5b2525c1fda1",
       "checks": 13
     }
   ],
