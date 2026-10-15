@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261015-video-order-A-revision53",
-  "commercialVersion": "fashion-20261015-video-order-A-revision53",
-  "revision": 53,
-  "changeScope": "first-full-video-only-then-second-during-actual-playback",
-  "createdAt": "2026-10-15T15:20:12.755Z",
-  "contentFileCount": 1342,
-  "contentBytes": 931187958,
-  "contentIndexSha256": "5f6478536f2cc118ac37b7691694fac5b7a2c3f8520b3785dedec24a48fb033c",
+  "packageId": "cruel-angel-fashion-commercial-20261015-video-order-A-revision54",
+  "commercialVersion": "fashion-20261015-video-order-A-revision54",
+  "revision": 54,
+  "changeScope": "immediate-second-cover-with-sequential-video-downloads",
+  "createdAt": "2026-10-15T15:47:48.673Z",
+  "contentFileCount": 1343,
+  "contentBytes": 932651946,
+  "contentIndexSha256": "ba674d17cb1f0529f232d89516584491b4aa14e9e01b8a3dd8a6bedae530039c",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -47,7 +47,9 @@
     "Revision51 restores immediate original crystal loading through embedded first frames and the original renderer and fixed-overlay style readiness handoff; added spinner and LOADING overlay are removed.",
     "Entry and all video request/playback sequencing, website body copy, external CSS, covers and original media stay unchanged; no extra loading stage or media request is introduced.",
     "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
-    "Only second-video poster admission changes; published crystal startup, site body, CSS and media remain unchanged."
+    "Only second-video poster admission changes; published crystal startup, site body, CSS and media remain unchanged.",
+    "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
+    "Restore normal second-video cover admission; published crystal startup, site body, CSS and media remain unchanged."
   ],
   "newMediaCount": 0,
   "coverCount": 317,
@@ -58,7 +60,7 @@
   "localQAReports": [
     {
       "file": "video-order-report.json",
-      "sha256": "cd0cb18df9345620898b86c8988d76cf31caa484bef6c29e96907da526e3acf5",
+      "sha256": "7f813dd79f887395251b3e4677e8866e99e033847cdeb19ad8e5f9df749c3cb9",
       "checks": 13
     }
   ],
