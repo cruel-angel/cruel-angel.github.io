@@ -1,12 +1,12 @@
 {
-  "packageId": "cruel-angel-fashion-commercial-20261015-remove-static-frame-revision55",
-  "commercialVersion": "fashion-20261015-remove-static-frame-revision55",
-  "revision": 55,
-  "changeScope": "remove-embedded-static-crystal-screenshot-only",
-  "createdAt": "2026-10-15T16:05:03.000Z",
-  "contentFileCount": 1343,
-  "contentBytes": 932614646,
-  "contentIndexSha256": "a64fa2bb1cc260c9fc36d3d71de9bb81d4a463a767be92aaf6fd1e9de019520a",
+  "packageId": "cruel-angel-fashion-current-20261016-dccf3571475e988b",
+  "commercialVersion": "fashion-current-20261016",
+  "revision": "current",
+  "changeScope": "portfolio-hierarchy-and-loading-handoff",
+  "createdAt": "2026-10-16T13:15:29.999Z",
+  "contentFileCount": 1345,
+  "contentBytes": 934912549,
+  "contentIndexSha256": "97726889eab89eb1967d9dc48dddb0e0894474e832e38bc8cdfaaa1abf145aac",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "independentResources": true,
   "protectedOtherEditions": true,
@@ -50,25 +50,44 @@
     "Only second-video poster admission changes; published crystal startup, site body, CSS and media remain unchanged.",
     "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
     "Restore normal second-video cover admission; published crystal startup, site body, CSS and media remain unchanged.",
-    "Remove only the initial embedded static crystal screenshot and its unused picture CSS. All JavaScript, the original crystal animation, both video covers and download sequence remain unchanged."
+    "Remove only the initial embedded static crystal screenshot and its unused picture CSS. All JavaScript, the original crystal animation, both video covers and download sequence remain unchanged.",
+    "Apply the approved portfolio hierarchy, responsive alignment, and startup handoff from the single current local build. Preserve first-image/complete-first-video entry and sequential second-film download."
   ],
   "newMediaCount": 0,
   "coverCount": 317,
   "coverHardLimitBytes": 300000,
   "largestCoverBytes": 296666,
-  "reusedCSS": "main-compat-v46.css",
+  "rawBundleHashes": {
+    "js": "dccf3571475e988bf70c24b8bd2f64de0ca63ffccf763f657c13af7b6f4e1f55",
+    "css": "57acf09f822918a3dcf5899f927fd532248ebb5146b40b09272e23c948ce8f4e"
+  },
+  "bundles": {
+    "js": "fashion-assets/61add364f7ec5c72/main-current-20261016-dccf3571475e988b.js",
+    "css": "fashion-assets/61add364f7ec5c72/main-current-20261016-57acf09f822918a3.css"
+  },
   "localQARequiredBeforePublication": true,
   "localQAReports": [
     {
-      "file": "video-order-report.json",
-      "sha256": "9a842415938cb1c2f797e600d23292f8fbf29f3c7f467e41907b5b2525c1fda1",
-      "checks": 13
+      "file": "verification.json",
+      "sha256": "56ff722745ca3f490604807717d41df0202aeb96ea6646007ec940a27614d107"
+    },
+    {
+      "file": "cold-start-check.json",
+      "sha256": "c046c717bfa58aef912351cd929797b50aec5eaf271fe1aa6f3c2fb76461bb70"
+    },
+    {
+      "file": "local-review-status.json",
+      "sha256": "9aaacfaeaeaea2a0419ff6006870d491f7de1c1cbbab9313986f329ab76cee0f"
     }
   ],
-  "localPassedChecks": 13,
+  "actualCodexEmbeddedBrowserVerified": true,
   "remoteBrowserCompatibilityRun": false,
   "postPublicationVerification": "version-and-file-bytes-only",
   "analyticsRetained": "G-B5QB1GK8QS",
   "noBackups": true,
-  "deletions": []
+  "deletions": [],
+  "legalNotices": {
+    "javascript": "Current linked license notices are included verbatim in the JavaScript comment; no existing legal file is overwritten.",
+    "css": "Existing byte-identical main.css.LEGAL.txt retained."
+  }
 }
