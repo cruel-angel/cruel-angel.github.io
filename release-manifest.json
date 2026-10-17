@@ -1,93 +1,17 @@
 {
-  "packageId": "cruel-angel-fashion-current-20261016-dccf3571475e988b",
-  "commercialVersion": "fashion-current-20261016",
-  "revision": "current",
-  "changeScope": "portfolio-hierarchy-and-loading-handoff",
-  "createdAt": "2026-10-16T13:15:29.999Z",
-  "contentFileCount": 1345,
-  "contentBytes": 934912549,
-  "contentIndexSha256": "97726889eab89eb1967d9dc48dddb0e0894474e832e38bc8cdfaaa1abf145aac",
-  "bundleNamespace": "fashion-assets/61add364f7ec5c72",
-  "independentResources": true,
-  "protectedOtherEditions": true,
-  "scope": [
-    "PDF-grounded responsibilities for seven career entries, with hover/keyboard/touch reading hold and original two-second automatic cycle",
-    "User classification and original 2026 chapter order restored: bulk cross-group pairing was rejected and undone; only explicitly named inserts, replacement and Sculpted move remain",
-    "Honey lipstick selected cover and thirteen numbered story images",
-    "Bone Couture with selected fourteen originals and expanded portrait cover",
-    "Twenty Koi designs, saved PSD composites and expanded portrait cover next to Celestial Apsaras",
-    "Seventeen Kabuki originals replace Vermilion Horizons; screenshot image eight supplies expanded cover",
-    "Intentional outside click closes native 2026 post layer; in-panel clicks and drags stay open; optional hero artwork keeps previous behavior",
-    "Three portrait posts occupy the user-marked gap between automotive/serum and notebook/chip; all classifications, galleries and all other row order preserved",
-    "Current freelance entry now starts in 2021.08, has the user-requested role and updated AI/brand, content-operation and team-workflow responsibilities; six other work entries unchanged",
-    "Recognition background effect canvas and redundant border removed; one shared background keeps both WebGL gems and photographic fallback clean",
-    "Mobile Theatre of Gaze previews use a separate smooth looping strip below the main artwork, with pause/resume and reduced-motion manual scrolling; desktop orbit preserved",
-    "Phone resume film follows the complete employment and responsibility text; desktop/tablet placement stays unchanged",
-    "User-selected original covers and flat readable inner story images without click enlargement",
-    "Coconut Recharge fourteen selected originals and original bottle-travel clip beside Botanical Essence",
-    "Green Reverie ten numbered original PNGs and selected summer train clip with existing cover composition retained",
-    "Celestial Pageant nine original PNGs and selected 1574 original clip; Koi position and Nocturnal post retirement follow explicit user instructions without deleting media",
-    "Adjacent Dunhuang/Pageant original cover alignment and opaque filled Coconut/Pageant card previews",
-    "WeChat entry boot resilience and bounded hero media readiness; existing selected media and prior layout preserved",
-    "VIDEO main DVD screen only: complete video download before Blob playback, real byte progress and source identity; all 101 other published application sources and all four shared sources exactly retain revision 38 bytes; existing media and category layout preserved",
-    "Shotlab signed artist recognition and Shotlab/Xinpianchang certification; blue-white marquise stones for the silver award, golden pear-shaped stones for the signed artist and matching golden small emerald, with original gemstone media unchanged; all fourteen fashion rail images open one Black Hole Runway post with an original-quality silent video excerpt, full-width feature frame and introductory portrait; new selected Mid-Autumn Moon post; automatic video playback in all post dialogs and real complete-download progress before hover-video playback, reusing the unchanged revision 39 download modules. Only recognition-awards, recognition-gem-scene, collections-2026, motion-preview and fashion-home change among existing application sources; fashion-home changes are confined to ArtworkDialog autoplay/muting, with FilmHero, NoirHero and boot logic unchanged.",
-    "Only Organic Assemblage / fluid-forms cover changes to the existing original-quality image 02; coverIndex is 1. Post position, categories, content images and their order, video behavior, CSS, recognition, other source files, media, editions and applications remain unchanged.",
-    "Only shared media scheduling changes: images have reserved loading capacity, video concurrency is bounded to reserve image capacity, and pending viewport images are promoted. Visual layout, image/media bytes, post data/order, CSS, full-download-before-play behavior, hero gates, editions and applications remain unchanged.",
-    "Approved local revision46: all317 explicit foreground/list/preview images at most300000 bytes; original inner images remain unchanged and load on detail open.",
-    "Responsive cinema advances only after true complete playback and measures current shelf geometry; explicit disc clicks take priority.",
-    "User-approved hero copy: 视频制作 / TVC 创意广告 / 品牌 VI 设计 / UI设计 / 视觉设计. Entry starts effect approximately500ms after readiness without changing full-film URLs or timeout/decode protection.",
-    "Revision47 repairs cold entry: startup fallback appears before the module executes; first-screen readiness does not wait for complete hero films.",
-    "Visible images recover from interrupted requests, stale video load slots release promptly, and hero full-film fetches cancel when no subscriber needs them.",
-    "CSS, media bytes, all317 foreground covers, catalogue order, detail originals and video-column interaction remain unchanged.",
-    "Revision48 keeps clear native loading visible before module/CSS execution and waits for the first decoded cover and complete first-film download before entry.",
-    "Second full film downloads only after first native playing; interruption cancels unfinished background work without discarding completed cache. Mobile hero subject framing and tracking are corrected.",
-    "All CSS, media bytes, 317 foreground covers, catalogue order, inner originals and VIDEO-column interactions remain unchanged.",
-    "Revision49 changes loading visible and accessible copy only; numerical progress and failure/retry UI remain.",
-    "Entry and all video request/playback sequencing, native loading behavior, website body copy, CSS, covers and originals stay unchanged.",
-    "Revision51 restores immediate original crystal loading through embedded first frames and the original renderer and fixed-overlay style readiness handoff; added spinner and LOADING overlay are removed.",
-    "Entry and all video request/playback sequencing, website body copy, external CSS, covers and original media stay unchanged; no extra loading stage or media request is introduced.",
-    "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
-    "Only second-video poster admission changes; published crystal startup, site body, CSS and media remain unchanged.",
-    "Option A: complete first cover and first video before entry; second video starts downloading after first native playing.",
-    "Restore normal second-video cover admission; published crystal startup, site body, CSS and media remain unchanged.",
-    "Remove only the initial embedded static crystal screenshot and its unused picture CSS. All JavaScript, the original crystal animation, both video covers and download sequence remain unchanged.",
-    "Apply the approved portfolio hierarchy, responsive alignment, and startup handoff from the single current local build. Preserve first-image/complete-first-video entry and sequential second-film download."
-  ],
-  "newMediaCount": 0,
-  "coverCount": 317,
-  "coverHardLimitBytes": 300000,
-  "largestCoverBytes": 296666,
-  "rawBundleHashes": {
-    "js": "dccf3571475e988bf70c24b8bd2f64de0ca63ffccf763f657c13af7b6f4e1f55",
-    "css": "57acf09f822918a3dcf5899f927fd532248ebb5146b40b09272e23c948ce8f4e"
-  },
-  "bundles": {
-    "js": "fashion-assets/61add364f7ec5c72/main-current-20261016-dccf3571475e988b.js",
-    "css": "fashion-assets/61add364f7ec5c72/main-current-20261016-57acf09f822918a3.css"
-  },
-  "localQARequiredBeforePublication": true,
-  "localQAReports": [
-    {
-      "file": "verification.json",
-      "sha256": "56ff722745ca3f490604807717d41df0202aeb96ea6646007ec940a27614d107"
-    },
-    {
-      "file": "cold-start-check.json",
-      "sha256": "c046c717bfa58aef912351cd929797b50aec5eaf271fe1aa6f3c2fb76461bb70"
-    },
-    {
-      "file": "local-review-status.json",
-      "sha256": "9aaacfaeaeaea2a0419ff6006870d491f7de1c1cbbab9313986f329ab76cee0f"
-    }
-  ],
-  "actualCodexEmbeddedBrowserVerified": true,
-  "remoteBrowserCompatibilityRun": false,
-  "postPublicationVerification": "version-and-file-bytes-only",
+  "schemaVersion": 1,
+  "packageId": "cos-6f9efd467c4a85db-9d2d551a",
+  "status": "offline-prepared-cloud-unverified",
+  "publicationReady": false,
+  "namespace": "fashion-assets/61add364f7ec5c72",
+  "mediaBaseURL": "https://cruel-angel-media-1509308841.cos.ap-guangzhou.myqcloud.com/fashion-assets/61add364f7ec5c72",
+  "mediaInventorySHA256": "2bbfecaf746ee0a9ef7980106278055de7ac55914fff9ea7d57ac4a48f9dd9e3",
+  "cloudMediaCount": 1096,
+  "contentFileCount": 1347,
+  "contentIndexSha256": "ff7133b624d53292277b12489c536c136401aa21c54b6cff9940e6d0eac29688",
+  "baselineCommit": "52b8eb324aff4db7ffdcdb84b7e928f9ae37d482",
   "analyticsRetained": "G-B5QB1GK8QS",
-  "noBackups": true,
   "deletions": [],
-  "legalNotices": {
-    "javascript": "Current linked license notices are included verbatim in the JavaScript comment; no existing legal file is overwritten.",
-    "css": "Existing byte-identical main.css.LEGAL.txt retained."
-  }
+  "logicalMediaKeysPreserved": true,
+  "entryAndSecondFilmPolicy": "unchanged-source-contract-requires-fresh-browser-proof"
 }
