@@ -1,17 +1,47 @@
 {
   "schemaVersion": 1,
-  "packageId": "cos-6f9efd467c4a85db-9d2d551a",
-  "status": "offline-prepared-cloud-unverified",
-  "publicationReady": false,
+  "packageId": "web-cloth-soft-github-0455d0ebc9e6d8a7",
+  "createdAt": "2026-10-18T10:48:43.884Z",
+  "changeScope": "approved-soft-web-design-gpu-cloth",
+  "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "namespace": "fashion-assets/61add364f7ec5c72",
   "mediaBaseURL": "https://cruel-angel-media-1509308841.cos.ap-guangzhou.myqcloud.com/fashion-assets/61add364f7ec5c72",
-  "mediaInventorySHA256": "2bbfecaf746ee0a9ef7980106278055de7ac55914fff9ea7d57ac4a48f9dd9e3",
-  "cloudMediaCount": 1096,
-  "contentFileCount": 1347,
-  "contentIndexSha256": "ff7133b624d53292277b12489c536c136401aa21c54b6cff9940e6d0eac29688",
-  "baselineCommit": "52b8eb324aff4db7ffdcdb84b7e928f9ae37d482",
+  "bundles": {
+    "js": "fashion-assets/61add364f7ec5c72/main-cloth-github-0455d0ebc9e6d8a7.js",
+    "css": "fashion-assets/61add364f7ec5c72/main-cloth-github-29ae24837f6d012c.css"
+  },
+  "rawBundleHashes": {
+    "js": "3b3af3416733db364a2366f697342a9fe09ce6e9c260221a0dbcb211c2a45ccc",
+    "css": "103feea8a8eacbb6e3e529720d2679562670c4a034653aa00416175a16645e23"
+  },
+  "sourceHTMLSHA256": "ed5951753873eb1902d8a2c18f4244fc3f9f019e0777d05ff0de097adb8c9d4b",
+  "contentFileCount": 1349,
+  "contentIndexSha256": "ecb3741e2c02635cc2384c23edcab0c8b4bb11f870340ed2f2d519cbd6c2338c",
+  "baselinePackageId": "cos-6f9efd467c4a85db-9d2d551a",
+  "baselineRootFiles": [
+    {
+      "path": "index.html",
+      "bytes": 3658,
+      "sha256": "8b1ef41edaf3c506402e3e07e88e5f8b4bbf9762255adfe9c414549dd0d4f87b"
+    },
+    {
+      "path": "checksums.sha256",
+      "bytes": 187189,
+      "sha256": "ff7133b624d53292277b12489c536c136401aa21c54b6cff9940e6d0eac29688"
+    },
+    {
+      "path": "release-manifest.json",
+      "bytes": 809,
+      "sha256": "0cee96e9197ba4725f12a7d5c6781ea0798831a80f60a520be32f4a5e12d2a9f"
+    }
+  ],
   "analyticsRetained": "G-B5QB1GK8QS",
   "deletions": [],
-  "logicalMediaKeysPreserved": true,
-  "entryAndSecondFilmPolicy": "unchanged-source-contract-requires-fresh-browser-proof"
+  "newMediaCount": 0,
+  "entryGateUnchanged": true,
+  "secondVideoOnlyAfterActualFirstPlaying": true,
+  "local3003Unchanged": true,
+  "actualCodexEmbeddedBrowserVerified": false,
+  "physicalPhoneVerified": false,
+  "referenceSourceCopied": false
 }
