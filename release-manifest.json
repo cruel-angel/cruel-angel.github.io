@@ -1,22 +1,23 @@
 {
   "schemaVersion": 1,
-  "packageId": "cloth-soft-contact-github-29899f5efcf645e3",
-  "createdAt": "2026-10-19T16:11:37.296Z",
+  "packageId": "violet-wire-path-github-32f9f1da7b8849ff",
+  "createdAt": "2026-10-19T17:01:55.199Z",
   "namespace": "fashion-assets/61add364f7ec5c72",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "mediaBaseURL": "https://www.vireva.com.au/friend_uploads/fashion-assets/61add364f7ec5c72",
   "bundles": {
-    "js": "fashion-assets/61add364f7ec5c72/main-cloth-soft-contact-github-29899f5efcf645e3.js",
+    "js": "fashion-assets/61add364f7ec5c72/main-violet-wire-path-github-32f9f1da7b8849ff.js",
     "css": "fashion-assets/61add364f7ec5c72/main-cloth-soft-contact-github-effcc10ee5e54d8c.css"
   },
+  "cssReused": true,
   "licenses": [
     "fashion-assets/61add364f7ec5c72/licenses/arowana-js-0159ae695201173f.txt",
     "fashion-assets/61add364f7ec5c72/licenses/arowana-css-9d9f3ad9dd41b0db.txt"
   ],
-  "contentIndexSha256": "fa78225e43c46aac6d57f648fb8c21fac2a6a3451ae15c23a3f23986c8467772",
-  "contentFileCount": 1361,
-  "baselinePackageId": "arowana-adaptive-github-54a7a93c02a0cbd8",
-  "changeScope": "owner-approved-softer-faster-cloth-transparent-ready-panel-and-contact-email",
+  "contentIndexSha256": "0e8592554c86cbd4c953edf4e485cbb579e62f3882f2f50b0ef980a6cdfcf745",
+  "contentFileCount": 1362,
+  "baselinePackageId": "cloth-soft-contact-github-29899f5efcf645e3",
+  "changeScope": "fix-divider-wire-css-to-use-the-actual-successfully-loaded-resolved-media-url",
   "heroFilmCount": 1,
   "entryWaitLimitMs": 10000,
   "oldFilmFilesRetained": true,
