@@ -1,51 +1,28 @@
 {
   "schemaVersion": 1,
-  "packageId": "vireva-media-3a12e1e73397dd0c",
-  "createdAt": "2026-10-19T03:47:30.641Z",
-  "changeScope": "github-media-origin-only",
-  "bundleNamespace": "fashion-assets/61add364f7ec5c72",
+  "packageId": "arowana-only-github-7d209db547390dbb",
+  "createdAt": "2026-10-19T06:26:40.447Z",
   "namespace": "fashion-assets/61add364f7ec5c72",
+  "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "mediaBaseURL": "https://www.vireva.com.au/friend_uploads/fashion-assets/61add364f7ec5c72",
   "bundles": {
-    "js": "fashion-assets/61add364f7ec5c72/main-vireva-3a12e1e73397dd0c.js",
-    "css": "fashion-assets/61add364f7ec5c72/main-vireva-72f4f7df817a5502.css"
+    "js": "fashion-assets/61add364f7ec5c72/main-arowana-github-7d209db547390dbb.js",
+    "css": "fashion-assets/61add364f7ec5c72/main-arowana-github-8f81088b2494fce8.css"
   },
-  "rawBundleHashes": {
-    "js": "3b3af3416733db364a2366f697342a9fe09ce6e9c260221a0dbcb211c2a45ccc",
-    "css": "103feea8a8eacbb6e3e529720d2679562670c4a034653aa00416175a16645e23"
-  },
-  "sourceHTMLSHA256": "ed5951753873eb1902d8a2c18f4244fc3f9f019e0777d05ff0de097adb8c9d4b",
-  "contentFileCount": 1351,
-  "contentIndexSha256": "206aa41a0721f76bc90b186906c674de8b305082cca1f01ee922067f9c9e5d25",
-  "baselinePackageId": "web-cloth-soft-github-0455d0ebc9e6d8a7",
-  "baselineRootFiles": [
-    {
-      "path": "index.html",
-      "bytes": 3658,
-      "sha256": "8b1ef41edaf3c506402e3e07e88e5f8b4bbf9762255adfe9c414549dd0d4f87b"
-    },
-    {
-      "path": "checksums.sha256",
-      "bytes": 187189,
-      "sha256": "ff7133b624d53292277b12489c536c136401aa21c54b6cff9940e6d0eac29688"
-    },
-    {
-      "path": "release-manifest.json",
-      "bytes": 809,
-      "sha256": "0cee96e9197ba4725f12a7d5c6781ea0798831a80f60a520be32f4a5e12d2a9f"
-    }
+  "licenses": [
+    "fashion-assets/61add364f7ec5c72/licenses/arowana-js-0159ae695201173f.txt",
+    "fashion-assets/61add364f7ec5c72/licenses/arowana-css-9d9f3ad9dd41b0db.txt"
   ],
-  "analyticsRetained": "G-B5QB1GK8QS",
-  "deletions": [],
+  "contentIndexSha256": "11a191faa68eda7abdb9054e82f326fad7ca967af1aeb29c8bad17ff36c20ecc",
+  "contentFileCount": 1355,
+  "baselinePackageId": "vireva-media-3a12e1e73397dd0c",
+  "changeScope": "arowana-only-hero-new-poster-and-10s-entry-cap",
+  "heroFilmCount": 1,
+  "entryWaitLimitMs": 10000,
+  "oldFilmFilesRetained": true,
   "newMediaCount": 0,
-  "entryGateUnchanged": true,
-  "secondVideoOnlyAfterActualFirstPlaying": true,
-  "local3003Unchanged": true,
+  "deletions": [],
+  "analyticsRetained": "G-B5QB1GK8QS",
   "actualCodexEmbeddedBrowserVerified": false,
-  "physicalPhoneVerified": false,
-  "referenceSourceCopied": false,
-  "baselineCommit": "7b9158198de5b84b50978c2a61c02d6d64edad3a",
-  "preservedApprovedCloth": true,
-  "unapprovedHero3Included": false,
-  "domestic120Unchanged": true
+  "physicalPhoneVerified": false
 }
