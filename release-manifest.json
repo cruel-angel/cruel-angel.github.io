@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "packageId": "web-cloth-soft-github-0455d0ebc9e6d8a7",
-  "createdAt": "2026-10-18T10:48:43.884Z",
-  "changeScope": "approved-soft-web-design-gpu-cloth",
+  "packageId": "vireva-media-3a12e1e73397dd0c",
+  "createdAt": "2026-10-19T03:47:30.641Z",
+  "changeScope": "github-media-origin-only",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "namespace": "fashion-assets/61add364f7ec5c72",
-  "mediaBaseURL": "https://cruel-angel-media-1509308841.cos.ap-guangzhou.myqcloud.com/fashion-assets/61add364f7ec5c72",
+  "mediaBaseURL": "https://www.vireva.com.au/friend_uploads/fashion-assets/61add364f7ec5c72",
   "bundles": {
-    "js": "fashion-assets/61add364f7ec5c72/main-cloth-github-0455d0ebc9e6d8a7.js",
-    "css": "fashion-assets/61add364f7ec5c72/main-cloth-github-29ae24837f6d012c.css"
+    "js": "fashion-assets/61add364f7ec5c72/main-vireva-3a12e1e73397dd0c.js",
+    "css": "fashion-assets/61add364f7ec5c72/main-vireva-72f4f7df817a5502.css"
   },
   "rawBundleHashes": {
     "js": "3b3af3416733db364a2366f697342a9fe09ce6e9c260221a0dbcb211c2a45ccc",
     "css": "103feea8a8eacbb6e3e529720d2679562670c4a034653aa00416175a16645e23"
   },
   "sourceHTMLSHA256": "ed5951753873eb1902d8a2c18f4244fc3f9f019e0777d05ff0de097adb8c9d4b",
-  "contentFileCount": 1349,
-  "contentIndexSha256": "ecb3741e2c02635cc2384c23edcab0c8b4bb11f870340ed2f2d519cbd6c2338c",
-  "baselinePackageId": "cos-6f9efd467c4a85db-9d2d551a",
+  "contentFileCount": 1351,
+  "contentIndexSha256": "206aa41a0721f76bc90b186906c674de8b305082cca1f01ee922067f9c9e5d25",
+  "baselinePackageId": "web-cloth-soft-github-0455d0ebc9e6d8a7",
   "baselineRootFiles": [
     {
       "path": "index.html",
@@ -43,5 +43,9 @@
   "local3003Unchanged": true,
   "actualCodexEmbeddedBrowserVerified": false,
   "physicalPhoneVerified": false,
-  "referenceSourceCopied": false
+  "referenceSourceCopied": false,
+  "baselineCommit": "7b9158198de5b84b50978c2a61c02d6d64edad3a",
+  "preservedApprovedCloth": true,
+  "unapprovedHero3Included": false,
+  "domestic120Unchanged": true
 }
