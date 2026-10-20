@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "packageId": "fantasy-current-github-5d3af09092d37c27",
-  "createdAt": "2026-10-20T11:03:02.974Z",
+  "packageId": "domestic-backup-github-370fd1ed68c5e2bc",
+  "createdAt": "2026-10-20T14:48:25.211Z",
   "namespace": "fashion-assets/61add364f7ec5c72",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "mediaBaseURL": "https://www.vireva.com.au/friend_uploads/fashion-assets/61add364f7ec5c72",
   "bundles": {
-    "js": "fashion-assets/61add364f7ec5c72/main-fantasy-current-github-5d3af09092d37c27.js",
-    "css": "fashion-assets/61add364f7ec5c72/main-fantasy-current-github-a4e11b9307e263b2.css"
+    "js": "fashion-assets/61add364f7ec5c72/main-domestic-backup-github-370fd1ed68c5e2bc.js",
+    "css": "fashion-assets/61add364f7ec5c72/main-domestic-backup-github-d06848acd42db5ac.css"
   },
   "cssReused": false,
   "licenses": [
-    "fashion-assets/61add364f7ec5c72/licenses/arowana-js-0159ae695201173f.txt",
+    "fashion-assets/61add364f7ec5c72/licenses/arowana-js-692a41dfb560b92f.txt",
     "fashion-assets/61add364f7ec5c72/licenses/arowana-css-9d9f3ad9dd41b0db.txt"
   ],
-  "contentIndexSha256": "87714b26922cde71945fee6e219a7095e109993818bc0cb1af2ce7cc670e5bec",
-  "contentFileCount": 1367,
-  "baselinePackageId": "blackhole-online-shortfix-github-155a4333a7b9a11e",
-  "changeScope": "all-current-approved-local-features-fantasy-post-dvd-layout-hero-and-abyss-detail",
+  "contentIndexSha256": "6791fb78742cf3bfddaa4289058ae5494abbd4a884d535b74ff549cc514821ea",
+  "contentFileCount": 1370,
+  "baselinePackageId": "fantasy-current-github-5d3af09092d37c27",
+  "changeScope": "compact-domestic-backup-link-direct-entry-local-only-style-review",
   "blackholeVideoPost": {
     "storyImages": 8,
     "characters": 12,
@@ -37,5 +37,15 @@
   "deletions": [],
   "analyticsRetained": "G-B5QB1GK8QS",
   "actualCodexEmbeddedBrowserVerified": false,
-  "physicalPhoneVerified": false
+  "physicalPhoneVerified": false,
+  "networkNotice": {
+    "label": "国内备用网站",
+    "url": "http://120.71.158.86:8301/index.html?entry=direct",
+    "wholeStripClickable": true,
+    "stripHeightPx": 28,
+    "accent": "mint-green",
+    "domesticHostHidden": true,
+    "stylePreviewLocalhostOnly": true,
+    "directEntrySkipsLoading": true
+  }
 }
