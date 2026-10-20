@@ -1,38 +1,34 @@
 {
   "schemaVersion": 1,
-  "packageId": "blackhole-online-shortfix-github-155a4333a7b9a11e",
-  "createdAt": "2026-10-20T07:32:25.186Z",
+  "packageId": "fantasy-current-github-5d3af09092d37c27",
+  "createdAt": "2026-10-20T11:03:02.974Z",
   "namespace": "fashion-assets/61add364f7ec5c72",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "mediaBaseURL": "https://www.vireva.com.au/friend_uploads/fashion-assets/61add364f7ec5c72",
   "bundles": {
-    "js": "fashion-assets/61add364f7ec5c72/main-blackhole-online-shortfix-github-155a4333a7b9a11e.js",
-    "css": "fashion-assets/61add364f7ec5c72/main-blackhole-video-github-a3b482a4bfb9ff66.css"
+    "js": "fashion-assets/61add364f7ec5c72/main-fantasy-current-github-5d3af09092d37c27.js",
+    "css": "fashion-assets/61add364f7ec5c72/main-fantasy-current-github-a4e11b9307e263b2.css"
   },
-  "cssReused": true,
+  "cssReused": false,
   "licenses": [
     "fashion-assets/61add364f7ec5c72/licenses/arowana-js-0159ae695201173f.txt",
     "fashion-assets/61add364f7ec5c72/licenses/arowana-css-9d9f3ad9dd41b0db.txt"
   ],
-  "contentIndexSha256": "76f13c5f970a7b77ff3915ea4cf8eb7c0c3ad0598490b972f44675dce507b92a",
-  "contentFileCount": 1365,
-  "baselinePackageId": "blackhole-video-github-e7ae2db9e4c87e1a",
-  "changeScope": "urgent-existing-15-second-preview-only-no-new-layout",
-  "cinemaLayout": {
-    "preservedPublishedLayout": true,
-    "newLayoutPublished": false
-  },
+  "contentIndexSha256": "87714b26922cde71945fee6e219a7095e109993818bc0cb1af2ce7cc670e5bec",
+  "contentFileCount": 1367,
+  "baselinePackageId": "blackhole-online-shortfix-github-155a4333a7b9a11e",
+  "changeScope": "all-current-approved-local-features-fantasy-post-dvd-layout-hero-and-abyss-detail",
   "blackholeVideoPost": {
-    "storyImages": 7,
+    "storyImages": 8,
     "characters": 12,
-    "detailImages": 19,
+    "detailImages": 20,
     "top2026StylingRailRemoved": true,
     "fullFilmOnExplicitPlayOnly": false,
     "fullFilmRemovedFromActivePost": true,
-    "usesExistingShortPreview": true
+    "additionalLandscapeDetail": true
   },
   "discSwitchCoverFix": true,
-  "mediaInventorySHA256": "4a9613905f022882d0116a8b4e5af70d2d2dd83acbcc61d90815eb47c637498c",
+  "mediaInventorySHA256": "845b87d34d046e7abfa51690adf07c8e9d564795b6b305692241985931f51e98",
   "heroFilmCount": 1,
   "entryWaitLimitMs": 10000,
   "oldFilmFilesRetained": true,
