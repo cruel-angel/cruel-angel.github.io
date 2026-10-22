@@ -1,23 +1,23 @@
 {
   "schemaVersion": 1,
-  "packageId": "hero-display-github-bd7cb6ae4d78e027",
-  "createdAt": "2026-10-21T09:23:52.263Z",
+  "packageId": "hero-network-github-fb6983f606c18a08",
+  "createdAt": "2026-10-22T04:54:02.034Z",
   "namespace": "fashion-assets/61add364f7ec5c72",
   "bundleNamespace": "fashion-assets/61add364f7ec5c72",
   "mediaBaseURL": "https://www.vireva.com.au/friend_uploads/fashion-assets/61add364f7ec5c72",
   "bundles": {
-    "js": "fashion-assets/61add364f7ec5c72/main-hero-display-github-bd7cb6ae4d78e027.js",
-    "css": "fashion-assets/61add364f7ec5c72/main-hero-display-github-d06848acd42db5ac.css"
+    "js": "fashion-assets/61add364f7ec5c72/main-hero-network-github-fb6983f606c18a08.js",
+    "css": "fashion-assets/61add364f7ec5c72/main-hero-network-github-d06848acd42db5ac.css"
   },
   "cssReused": false,
   "licenses": [
     "fashion-assets/61add364f7ec5c72/licenses/arowana-js-692a41dfb560b92f.txt",
     "fashion-assets/61add364f7ec5c72/licenses/arowana-css-9d9f3ad9dd41b0db.txt"
   ],
-  "contentIndexSha256": "13441a20feb1fd0d8f6a65f00d855090e2b9feff7419e707b7002743eebcf544",
-  "contentFileCount": 1372,
-  "baselinePackageId": "domestic-backup-github-370fd1ed68c5e2bc",
-  "changeScope": "hero-media-profile-uses-monitor-pixels-and-viewport-with-single-navigation-selection",
+  "contentIndexSha256": "175270a4743004f1658365acd9583fadabd655132fe3921713520bf2fd4c0cd4",
+  "contentFileCount": 1374,
+  "baselinePackageId": "hero-display-github-bd7cb6ae4d78e027",
+  "changeScope": "preserve-screen-selected-hero-quality-on-slow-network-with-explicit-data-saver-only",
   "blackholeVideoPost": {
     "storyImages": 8,
     "characters": 12,
